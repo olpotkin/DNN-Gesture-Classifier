@@ -85,6 +85,6 @@ The probability distribution for 10 examples:
 * Class 8 (С): True, Probability = 1
 * Class 9 (Я): True, Probability = 0.997
 
-91.3% of images **from the test set** were correct classified.
-80% of images **out of the dataset** were correct classified.
+* 91.3% of images **from the test set** were correct classified.
+* 80% of images **out of the dataset** were correct classified.
 
