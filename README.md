@@ -1,6 +1,6 @@
 # Deep Neural Network Gesture Classifier
 
-## Static gestures classification using Convolutional Neural Networks on the example of the Russian Sign Language (RSL) dactyl
+## Static gestures classification using Convolutional Neural Network on the example of the Russian Sign Language (RSL) dactyl
 
 [image1]: ./imgs/01_dataset.png "dataset"
 [image2]: ./imgs/02_segment.png "segment"
