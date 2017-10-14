@@ -8,6 +8,7 @@
 [image4]: ./imgs/04_train.png "train"
 [image5]: ./imgs/05_exp.png "exp"
 [image6]: ./imgs/06_res.png "res"
+[image7]: ./imgs/07_cnn.png "cnn"
 
 The project demonstrates the system of classification of static gestures of RSL, which is based on the approach of computer vision using convolutional neural network. The work is actual and represents a starting point for researchers in the field of gesture recognition.
 
@@ -49,7 +50,9 @@ The final model architecture consisted of a convolutional neural network with th
 
 ![alt text][image3]
 
-Important design choice - to apply Dropout - a simple way to prevent neural networks from overfitting). 
+![alt text][image7]
+
+Important design choice - to apply Dropout - a simple way to prevent neural networks from overfitting).
 
 ## Training results
 
