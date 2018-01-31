@@ -68,7 +68,7 @@ After preprocessing we need to split dataset to:
 
 
 ## Benchmark Model
-In this project, I decide to take the state-of-the-art benchmark model (architecture) – LeNet-5 as a BASE for my CNN architecture. It shows impressive result in image classification tasks and has very good performance.
+In this project, I decide to use the state-of-the-art benchmark model (architecture) – LeNet-5 as a BASE for my CNN architecture. It shows impressive result in image classification tasks and has very good performance.
 
 
 ## Neural Network Architecture
