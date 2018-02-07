@@ -123,7 +123,7 @@ The probability distribution for 10 examples:
 ---
 
 * 91.3% of images **from the test set** were correct classified.
-* 80% of images **out of the dataset** were correct classified.
+* 80% of images **from the out of the dataset** were correct classified.
 
 
 ## Possible points of improvement
