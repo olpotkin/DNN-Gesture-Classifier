@@ -21,7 +21,6 @@ To translate gesture commands into a control signal, a gesture classification me
 Project demonstrates the core of Russian Sign Language static gesture classification system, which is based on the approach of computer vision with using convolutional neural network. The work is actual and represents a starting point for researchers in the field of gesture recognition.
 
 
-
 ## Datasets and Inputs
 To solve described problem with CNN approach I need a dataset. I didn’t found any open dataset in this field and decided to create my own.
 
