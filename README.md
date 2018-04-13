@@ -59,7 +59,7 @@ Result after preprocessing:
 
 ![alt text][image2]
 
-After preprocessing we need to split dataset to:
+After preprocessing we need to split dataset to the 3 sets:
 
 * Training set: 666
 * Cross-validation set: 167
