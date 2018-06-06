@@ -26,6 +26,8 @@ To solve described problem with CNN approach I need a dataset. I didn’t found 
 
 The dataset for learning, validating and testing a neural network consists of **around 1000 images** (1042 on the moment of writing of this paper) with a resolution of **128x128 pixels**. The image is divided into **10 classes**, each of which corresponds to a strictly defined gesture.
 
+Dataset is a part of repository: hand-dataset.zip
+
 Dataset stats:
 
 ![alt text][image1]
