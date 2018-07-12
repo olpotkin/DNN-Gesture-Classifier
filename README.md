@@ -11,6 +11,11 @@
 [image7]: ./imgs/07_cnn.png "cnn"
 
 
+## Publications on ResearchGate
+- [Article](https://www.researchgate.net/publication/325675178_Static_gestures_classification_using_Convolutional_Neural_Networks_on_the_example_of_the_Russian_Sign_Language)
+- [Poster](https://www.researchgate.net/publication/326112422_Static_gestures_classification_using_Convolutional_Neural_Networks_on_the_example_of_the_Russian_Sign_Language)
+
+
 ## Domain Background
 Interfaces of human-computer interaction are diverse in their implementation and scope e.g. systems with console input-output, controllers with gesture control, brain-computer interfaces and others. Systems using data input based on the recognition of custom gestures have gained wide popularity since 2010 after the release of the contactless game controller Kinect from Microsoft. Gesture based controllers increase their market share and become a part of everyday life of different categories of users. So, for example, the Volkswagen car manufacturer introduced the multimedia system Golf R Touch Gesture Control to control the multimedia system of the car by gesture commands.
 
