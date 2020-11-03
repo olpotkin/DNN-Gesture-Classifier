@@ -15,3 +15,11 @@ TBD
 **Целевая аудитория:** начинающие разработчики, имеющие минимальный опыт работы с Python и базовое понимания принципов Машинного Обучения и устройства Искусственных нейронных сетей.
 
 **Предполагаемое время:** 30 минут
+
+### Полезные ссылки
+
+- [PyTorch at Tesla (Andrej Karpathy)](https://youtu.be/oBklltKXtDE) + [Tesla Autopilot is better than you think!](https://youtu.be/zRnSmw1i_DQ)
+
+- [Using deep learning and PyTorch to power next gen aircraft at Caltech](https://youtu.be/se206WBk2dM)
+
+- TBD
