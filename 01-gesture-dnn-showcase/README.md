@@ -30,6 +30,10 @@
 
 - [PyTorch](https://pytorch.org/get-started/locally/)
 
+### Набор данных **GESTURE_SET**
+
+Заполните [короткую форму](https://forms.gle/S8oixqohuK2HzdtG9). К ней прикреплена ссылка на набор данных.
+
 ### Полезные ссылки
 
 - [PyTorch at Tesla (Andrej Karpathy)](https://youtu.be/oBklltKXtDE) + [Tesla Autopilot is better than you think!](https://youtu.be/zRnSmw1i_DQ)
