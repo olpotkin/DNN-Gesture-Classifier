@@ -2,6 +2,10 @@
 
 ## Открытый урок в рамках интенсива [«Архипелаг 20.35»](https://2035.university/arkhipelag-20-35/) (10.11.2020, 13:00-15:00 MSC)
 
+### Набор данных **gesture_set**
+
+Заполните [специальную форму](https://forms.gle/S8oixqohuK2HzdtG9). К ней прикреплена ссылка на набор данных.
+
 ### Тизер
 
 **Целевая аудитория:** начинающие разработчики, имеющие минимальный опыт работы с Python и элементарное понимание принципов Машинного Обучения.
@@ -10,7 +14,7 @@
 
 - Настроить рабочую среду, узнать о необходимых инструментах для начала работы;
 
-- Изучить и визуализировать набор данных [gesture_set](TBD_Google_Form);
+- Изучить и визуализировать набор данных [gesture_set](https://forms.gle/S8oixqohuK2HzdtG9);
 
 - Выполнить обработку данных при помощи инструментов [PyTorch](https://pytorch.org/): предварительная обработка, аугментация;
 
@@ -32,16 +36,16 @@
 
 - Для установки библиотеки moviepy : `pip install moviepy`
 
-### Набор данных **GESTURE_SET**
-
-Заполните [короткую форму](https://forms.gle/S8oixqohuK2HzdtG9). К ней прикреплена ссылка на набор данных.
-
 ### Полезные ссылки
 
 - [PyTorch at Tesla (Andrej Karpathy)](https://youtu.be/oBklltKXtDE) + [Tesla Autopilot is better than you think!](https://youtu.be/zRnSmw1i_DQ)
 
+- [Using deep learning and PyTorch to power next gen aircraft at Caltech](https://youtu.be/se206WBk2dM)
+
 - [Трансформации изображений в torchvision](https://pytorch.org/docs/stable/torchvision/transforms.html)
 
-- [Using deep learning and PyTorch to power next gen aircraft at Caltech](https://youtu.be/se206WBk2dM)
+- [Как посчитать размерности слоев нейронной сети](https://deeplizard.com/learn/video/cin4YcGBh3Q)
+
+- [Как посчитать размерность слоя после операции AvgPool2d](https://pytorch.org/docs/stable/generated/torch.nn.AvgPool2d.html)
 
 - TBD
