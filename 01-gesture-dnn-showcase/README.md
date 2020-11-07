@@ -30,6 +30,8 @@
 
 - [PyTorch](https://pytorch.org/get-started/locally/)
 
+- Для установки библиотеки moviepy : `pip install moviepy`
+
 ### Набор данных **GESTURE_SET**
 
 Заполните [короткую форму](https://forms.gle/S8oixqohuK2HzdtG9). К ней прикреплена ссылка на набор данных.
@@ -37,6 +39,8 @@
 ### Полезные ссылки
 
 - [PyTorch at Tesla (Andrej Karpathy)](https://youtu.be/oBklltKXtDE) + [Tesla Autopilot is better than you think!](https://youtu.be/zRnSmw1i_DQ)
+
+- [Трансформации изображений в torchvision](https://pytorch.org/docs/stable/torchvision/transforms.html)
 
 - [Using deep learning and PyTorch to power next gen aircraft at Caltech](https://youtu.be/se206WBk2dM)
 
